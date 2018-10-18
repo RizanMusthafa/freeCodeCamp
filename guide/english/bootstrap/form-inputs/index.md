@@ -135,6 +135,7 @@ The label `for` attribute **always** references the input field by its **ID**. T
 that this label is definitely for this input field which will minimize confusion for any users who are using
 a screen reader to visit a web site.
 
+> **NOTE :** we can use `form-control-sm` and `form-control-lg` classes with `form-control` class to resize the input size
 
 ### More Information:
 Code examples are from [W3Schools - Bootstrap Form Inputs](https://www.w3schools.com/bootstrap/bootstrap_forms_inputs.asp).
